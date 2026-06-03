@@ -9,3 +9,6 @@ create table if not exists user_table(
     user_acess_level VARCHAR(40) DEFAULT 'default_user_level',
     user_timestamp timestamp DEFAULT now()
 );
+
+INSERT INTO user_table (user_name, user_email, user_password) 
+VALUES ('Maru', 'email@email.com', '1234');

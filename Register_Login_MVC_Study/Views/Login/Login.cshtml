@@ -1,0 +1,31 @@
+﻿@model Register_Login_MVC_Study.Models.UserModel //Os dados que vão rodar aqui dentro pertencem e seguem o molde da classe UserModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+            <div class="card p-4 shadow-sm">
+                <h3 class="text-center mb-4">Login</h3>
+
+                <form asp-action="Login" method="post">
+
+                    <div class="mb-3">
+                        <label for="user_email" class="form-label">E-mail</label>
+                        <input asp-for="user_email" type="email" class="form-control" placeholder="email@email.com" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="user_password" class="form-label">Password</label>
+                        <input asp-for="user_password" type="password" class="form-control" placeholder="Digite sua senha" required />
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100">Entrar</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
