@@ -1,0 +1,40 @@
+﻿@model Register_Login_MVC_Study.Models.UserModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-5">
+            <div class="card p-4 shadow-sm">
+                <h3 class="text-center mb-4">Create Account</h3>
+
+                <form asp-action="Register" method="post">
+
+                    <div class="mb-3">
+                        <label for="user_name" class="form-label">Name</label>
+                        <input asp-for="user_name" type="text" class="form-control" placeholder="John Doe" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="user_email" class="form-label">E-mail</label>
+                        <input asp-for="user_email" type="email" class="form-control" placeholder="email@email.com" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="user_password" class="form-label">Password</label>
+                        <input asp-for="user_password" type="password" class="form-control" placeholder="Create a password" required />
+                    </div>
+
+                    <button type="submit" class="btn btn-success w-100">Register</button>
+
+                    <div class="text-center mt-3">
+                        <a asp-action="Login" class="text-decoration-none">Already have an account? Login here</a>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>

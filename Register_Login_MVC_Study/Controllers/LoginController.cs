@@ -25,18 +25,46 @@ namespace Register_Login_MVC_Study.Controllers
         [HttpPost]
         public IActionResult Login(UserModel loginData)
         {
-            var userExists = _context.user_table.FirstOrDefault(u => u.user_email == loginData.user_email && u.user_password == loginData.user_password);
+            var userExists = _context.user_table.FirstOrDefault(u => u.user_email == loginData.user_email);
 
             // 2. We check the result of our SELECT
             if (userExists != null)
             {
-                // If the user was found, return a simple text message saying success
-                return Content($"Success! Welcome back, {userExists.user_name}.");
+
+                bool isPasswordValid = BCrypt.Net.BCrypt.Verify(loginData.user_password, userExists.user_password);
+
+                if (isPasswordValid)
+                {
+                    // If the user was found, return a simple text message saying success
+                    return Content($"Success! Welcome back, {userExists.user_name}.");
+                }
+
             }
 
             // If the user was NOT found, return to the login page
 
+            ViewData["ErrorMessage"] = "Invalid email or password.";
             return View();
+        }
+
+        [HttpGet]
+        public IActionResult Register()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Register(UserModel newUserData)
+        {
+            string passwordHash = BCrypt.Net.BCrypt.HashPassword(newUserData.user_password);
+
+            newUserData.user_password = passwordHash;
+
+            _context.user_table.Add(newUserData);
+
+            _context.SaveChanges();
+
+            return RedirectToAction("Login");
         }
     }
 }

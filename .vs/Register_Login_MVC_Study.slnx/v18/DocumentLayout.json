@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|c:\\users\\blackhole\\desktop\\register_login_mvc_study\\register_login_mvc_study\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|solutionrelative:register_login_mvc_study\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|c:\\users\\blackhole\\desktop\\register_login_mvc_study\\register_login_mvc_study\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|solutionrelative:register_login_mvc_study\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|c:\\users\\blackhole\\desktop\\register_login_mvc_study\\register_login_mvc_study\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|solutionrelative:register_login_mvc_study\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|c:\\users\\blackhole\\desktop\\register_login_mvc_study\\register_login_mvc_study\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|solutionrelative:register_login_mvc_study\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|c:\\users\\blackhole\\desktop\\register_login_mvc_study\\register_login_mvc_study\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|solutionrelative:register_login_mvc_study\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|c:\\users\\blackhole\\desktop\\register_login_mvc_study\\register_login_mvc_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|solutionrelative:register_login_mvc_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|c:\\users\\blackhole\\desktop\\register_login_mvc_study\\register_login_mvc_study\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|solutionrelative:register_login_mvc_study\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|c:\\users\\blackhole\\desktop\\register_login_mvc_study\\register_login_mvc_study\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|solutionrelative:register_login_mvc_study\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|c:\\users\\blackhole\\desktop\\register_login_mvc_study\\register_login_mvc_study\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|solutionrelative:register_login_mvc_study\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|c:\\users\\blackhole\\desktop\\register_login_mvc_study\\register_login_mvc_study\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C960F1-41CE-4BC6-5561-341EF4CC45C5}|Register_Login_MVC_Study\\Register_Login_MVC_Study.csproj|solutionrelative:register_login_mvc_study\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Register_Login_MVC_Study\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Register_Login_MVC_Study\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T21:25:20.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Views\\Login\\Register.cshtml",
+              "RelativeDocumentMoniker": "Register_Login_MVC_Study\\Views\\Login\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Views\\Login\\Register.cshtml",
+              "RelativeToolTip": "Register_Login_MVC_Study\\Views\\Login\\Register.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T21:12:11.587Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -52,99 +58,9 @@
               "RelativeDocumentMoniker": "Register_Login_MVC_Study\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Register_Login_MVC_Study\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvzUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T23:35:30.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\.gitignore",
-              "RelativeDocumentMoniker": "Register_Login_MVC_Study\\.gitignore",
-              "ToolTip": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\.gitignore",
-              "RelativeToolTip": "Register_Login_MVC_Study\\.gitignore",
-              "ViewState": "AgIAALECAAAAAAAAAAAowMsCAABiAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2026-06-02T23:02:30.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Register_Login_MVC_Study\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Register_Login_MVC_Study\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T22:43:04.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "Register_Login_MVC_Study\\Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Models\\UserModel.cs",
-              "RelativeToolTip": "Register_Login_MVC_Study\\Models\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T22:34:00.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Program.cs",
-              "RelativeDocumentMoniker": "Register_Login_MVC_Study\\Program.cs",
-              "ToolTip": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Program.cs",
-              "RelativeToolTip": "Register_Login_MVC_Study\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T22:16:41.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\appsettings.json",
-              "RelativeDocumentMoniker": "Register_Login_MVC_Study\\appsettings.json",
-              "ToolTip": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\appsettings.json",
-              "RelativeToolTip": "Register_Login_MVC_Study\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-02T22:12:08.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Views\\Login\\Login.cshtml",
-              "RelativeDocumentMoniker": "Register_Login_MVC_Study\\Views\\Login\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Views\\Login\\Login.cshtml",
-              "RelativeToolTip": "Register_Login_MVC_Study\\Views\\Login\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T23:20:54.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Register_Login_MVC_Study\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Blackhole\\Desktop\\Register_Login_MVC_Study\\Register_Login_MVC_Study\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Register_Login_MVC_Study\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T23:30:50.799Z",
               "EditorCaption": ""
             }
           ]
